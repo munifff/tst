@@ -1,0 +1,2 @@
+ID Pemesanan: 7, Metode: Cash, Jumlah: 500000000.00
+ID Pemesanan: 8, Metode: Cash, Jumlah: 500000000.00
