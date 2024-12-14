@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<helpdesks>
+  <helpdesk>
+    <id_helpdesk>1</id_helpdesk>
+    <id_pelanggan>1</id_pelanggan>
+    <judul>bismillah</judul>
+    <deskripsi>bismillah</deskripsi>
+    <tanggal_buat>2024-12-01 02:10:35</tanggal_buat>
+    <status>closed</status>
+  </helpdesk>
+  <helpdesk>
+    <id_helpdesk>2</id_helpdesk>
+    <id_pelanggan>1</id_pelanggan>
+    <judul>asdfghjk</judul>
+    <deskripsi>wsedrftgyhujik</deskripsi>
+    <tanggal_buat>2024-12-01 07:14:01</tanggal_buat>
+    <status>closed</status>
+  </helpdesk>
+  <helpdesk>
+    <id_helpdesk>3</id_helpdesk>
+    <id_pelanggan>2</id_pelanggan>
+    <judul>assalamualiakum</judul>
+    <deskripsi>jasdnabhdb</deskripsi>
+    <tanggal_buat>2024-12-02 00:58:32</tanggal_buat>
+    <status>open</status>
+  </helpdesk>
+</helpdesks>
