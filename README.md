@@ -1,7 +1,7 @@
 SISTEM JUAL MOBIL
 ====================
 tediri dari 2 sistem
-1. sistem penjual (folder crud)
+1. sistem penjual (folder server)
 2. sistem pembeli (folder user)
 ===================
 
